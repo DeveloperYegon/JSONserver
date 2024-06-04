@@ -1,0 +1,53 @@
+{
+    "books":[
+        {
+            "title":"The Great Gatsby",
+            "author":"F. Scott Fitzgerald",
+            "year":"1925"
+        },
+        {
+            "title":"To Kill a Mockingbird",
+            "author":"Harper Lee",
+            "year":"1960"
+        },
+        {
+            "title":"1984",
+            "author":"George Orwell",
+            "year":"1949"
+        },
+        {
+            "title":"The Catcher in the Rye",
+            "author":"J.D. Salinger",
+            "year":"1951"
+        },
+        {
+            "title":"The Grapes of Wrath",
+            "author":"John Steinbeck",
+            "year":"1939"
+        },
+        {
+            "title":"The Lord of the Rings",
+            "author":"J.R.R. Tolkien",
+            "year":"1954"
+        },
+        {
+            "title":"The Hobbit",
+            "author":"J.R.R. Tolkien",
+            "year":"1937"
+        }   
+    ],
+    
+    "reviews":[
+        {
+            "title":"The Great Gatsby",
+            "review":"This is a great book!",
+            "rating":"5"
+        },
+        {
+            "title":"To Kill a Mockingbird",
+            "review":"This is a great book!",   
+            "rating":"5"
+        }
+        
+    ]
+}
